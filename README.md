@@ -1,13 +1,13 @@
 # Personal OS — AI-Powered Family Intelligence System
 
-> A production-grade agentic system for a dual-income household.
-> Built by a Senior PM to solve a real problem — and to learn by building.
+> A production-grade agentic system for a operationalizing a family household.
+> 
 
 ---
 
 ## What It Does
 
-Three school platforms. A FIRE savings goal. Family healthcare across four people.
+Three school platforms. A savings goal. Family healthcare scheduling across four people.
 All of it landing in different apps, with no unified view.
 
 **Personal OS** pulls it together into one morning email, one weekly finance check,
@@ -24,13 +24,11 @@ gates before anything consequential happens.
 
 ## Why This Exists (The Real Problem)
 
-My 7th grader was across three school platforms. I was opening three apps every morning.
-The student was opening zero.
-
+Kids work was across three school platforms, leading to challenges in management.
 The job-to-be-done: know at a glance what needs attention today, in one email, without
 manual checking — so the 7am conversation is useful instead of reactive.
 
-Savvas Realize had no public API. I reverse-engineered the GraphQL endpoint from
+Savvas Realize had no public API. Reverse-engineered the GraphQL endpoint from
 Chrome DevTools, automated token refresh via Playwright, and wired it into a
 Canvas-normalized pipeline. Math was dark. Now it isn't.
 
@@ -178,5 +176,5 @@ At every non-trivial decision, the architectural reasoning is documented here.
 
 ---
 
-*Built by a Senior PM learning AI architecture through production builds.*
+*Built by a Product Builder to learn through production builds.*
 *Started as a school tracker. Became a family operating system.*
