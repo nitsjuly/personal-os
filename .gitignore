@@ -1,0 +1,23 @@
+# Private family data — never commit
+private/
+.env
+
+# Runtime data
+logs/
+data/
+data/savvas_browser_profile/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Output files that may contain PII
+*_output.json
+*_report_draft.html
+
+# OS
+.DS_Store
+Thumbs.db

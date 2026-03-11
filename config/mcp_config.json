@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "gmail": {
+      "url": "https://gmail.mcp.claude.com/mcp",
+      "enabled": true
+    },
+    "gcal": {
+      "url": "https://gcal.mcp.claude.com/mcp",
+      "enabled": true,
+      "note": "Calendar creates disabled until HITL gate confirmed"
+    }
+  }
+}
